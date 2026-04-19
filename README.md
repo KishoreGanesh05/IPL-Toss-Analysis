@@ -26,9 +26,9 @@ The analysis goes beyond basic statistics by comparing:
 
 * Key features used:
 
-  * `venue`
-  * `toss_decision` (bat/field)
-  * `toss_match_win` (1 = win after toss, 0 = loss)
+  * venue
+  * toss_decision (bat/field)
+  * toss_match_win (1 = win after toss, 0 = loss)
 
 * Filter applied:
 
@@ -174,7 +174,7 @@ At **M Chinnaswamy Stadium**:
 
 ##  Conclusion
 
-> Winning the toss does not provide a statistically significant advantage in IPL matches. However, teams display strong and consistent decision biases, often favoring fielding first, even in scenarios where it may not be the most efficient strategy. This highlights the importance of **data-driven, context-aware decision-making**.
+ Winning the toss does not provide a statistically significant advantage in IPL matches. However, teams display strong and consistent decision biases, often favoring fielding first, even in scenarios where it may not be the most efficient strategy. This highlights the importance of **data-driven, context-aware decision-making**.
 
 ---
 
