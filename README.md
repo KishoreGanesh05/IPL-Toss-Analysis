@@ -183,7 +183,8 @@ At **M Chinnaswamy Stadium**:
 ##  Visualizations
 
 * Strategy vs Outcome Heatmap
-  <img width="1259" height="715" alt="image" src="https://github.com/user-attachments/assets/e1e8558c-97ee-4782-8ef9-6a65f1c27846" />
+  <img width="1196" height="699" alt="image" src="https://github.com/user-attachments/assets/74799e5b-ae23-416d-8f05-ed8816affbd4" />
+
 
 * Venue-wise Toss Decision Map
   <img width="1800" height="1200" alt="venue_toss_winrate" src="https://github.com/user-attachments/assets/69dd6f74-8ded-4b64-8ffb-3762552d207b" />
