@@ -19,10 +19,16 @@ The analysis goes beyond basic statistics by comparing:
 * Detect **decision-making inefficiencies**
 
 ---
+##  Key Insight
+
+> While toss outcome itself is not a strong predictor of match success, teams exhibit consistent behavioral biases—often preferring fielding—despite limited statistical evidence supporting it.
+
+---
 
 ##  Dataset
 
 * IPL match dataset
+  * Source: [IPL Seasons 2008–2025](https://www.kaggle.com/datasets/slidescope/ipl-seasons-2008-to-2025-dataset) via Kaggle
 
 * Key features used:
 
@@ -131,11 +137,7 @@ At **M Chinnaswamy Stadium**:
 
 ---
 
-##  Key Insight
 
-> While toss outcome itself is not a strong predictor of match success, teams exhibit consistent behavioral biases—often preferring fielding—despite limited statistical evidence supporting it.
-
----
 
 ##  Important Clarification
 
